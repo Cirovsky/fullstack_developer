@@ -54,4 +54,4 @@ O cojunto de commits formam uma linha do tempo de quando aqueles arquivos foram 
 
 O Git opera de modo a proporcionar um sistema distribuído seguro. Pelo fato dos commits serem tão dificeis de ser alterados, e que a versões dos arquivos na máquina dos colaboradores e nos servidores na nuvem. O código do programa terá várias versões confiáveis que podem ser acessadas em caso de problemas em algum dos repositórios (locais ou remotos).
 
-[](4_2_CiclodeVidadosArquivosGit.md)Próximo
+[Próximo](4_2_CiclodeVidadosArquivosGit.md)
