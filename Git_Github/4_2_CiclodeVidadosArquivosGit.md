@@ -1,3 +1,3 @@
-4.2 Ciclo de Vida dos Arquivos no Git
+# 4.2 Ciclo de Vida dos Arquivos no Git
 
 Conceitos de arquivos Tracked Untracked
